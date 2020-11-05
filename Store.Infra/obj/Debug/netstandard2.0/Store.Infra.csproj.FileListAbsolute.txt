@@ -1,0 +1,14 @@
+D:\Estudos\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Infra.deps.json
+D:\Estudos\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Infra.dll
+D:\Estudos\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Infra.pdb
+D:\Estudos\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.csprojAssemblyReference.cache
+D:\Estudos\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.AssemblyInfoInputs.cache
+D:\Estudos\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.AssemblyInfo.cs
+D:\Estudos\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.csproj.CoreCompileInputs.cache
+D:\Estudos\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.dll
+D:\Estudos\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.pdb
+D:\Estudos\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Domain.dll
+D:\Estudos\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Shared.dll
+D:\Estudos\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Domain.pdb
+D:\Estudos\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Shared.pdb
+D:\Estudos\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.csproj.CopyComplete

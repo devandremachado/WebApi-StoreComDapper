@@ -1,0 +1,9 @@
+D:\Estudos\Store\Store.Shared\bin\Debug\netstandard2.0\Store.Shared.deps.json
+D:\Estudos\Store\Store.Shared\bin\Debug\netstandard2.0\Store.Shared.dll
+D:\Estudos\Store\Store.Shared\bin\Debug\netstandard2.0\Store.Shared.pdb
+D:\Estudos\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.csprojAssemblyReference.cache
+D:\Estudos\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.AssemblyInfoInputs.cache
+D:\Estudos\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.AssemblyInfo.cs
+D:\Estudos\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.csproj.CoreCompileInputs.cache
+D:\Estudos\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.dll
+D:\Estudos\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.pdb
